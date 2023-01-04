@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
   
 About me
 Hi, I’m Luiz, a full-stack engineer from Brazil who has a passion for building IT solutions and helping companies expand, plan, and succeed. I’ve been working with software development for 15+ years, and I’m currently working as a tech-lead at Vanhack Technologies in Canada.
@@ -23,4 +21,3 @@ You can find me on the social networks below. But I’m usually more active on L
 linkedin.com/in/joseluizsborges/
 instagram.com/joseluizwa/
 
--->
