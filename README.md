@@ -22,8 +22,7 @@ But I'm also worked with: NodeJS, Oracle, Asp.Net, MVC, Jquery
 Contact
 You can find me on the social networks below. But I’m usually more active on Linkedin! :)
 
-(link)linkedin.com/in/joseluizsborges/
-
+[Luiz's Linkedin](https://linkedin.com/in/joseluizsborges/)
 
 
 
