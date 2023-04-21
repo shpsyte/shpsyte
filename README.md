@@ -22,8 +22,8 @@ But I'm also worked with: NodeJS, Oracle, Asp.Net, MVC, Jquery
 Contact
 You can find me on the social networks below. But I’m usually more active on Linkedin! :)
 
-linkedin.com/in/joseluizsborges/
-instagram.com/joseluizwa/
+(link)linkedin.com/in/joseluizsborges/
+
 
 
 
@@ -39,8 +39,8 @@ instagram.com/joseluizwa/
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
               
 </div>
   
