@@ -30,7 +30,7 @@ You can find me on the social networks below. But I’m usually more active on L
 <div align="center" display="inline-block">
   <a href="https://github.com/rsimplicioo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shpsyte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsimplicioo&count_private=true&layout=compact&langs_count=7&theme=dark&include_all_commits=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shpsyte&count_private=true&layout=compact&langs_count=7&theme=dark&include_all_commits=true&show_icons=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
