@@ -4,7 +4,17 @@ Hi 👋 My name is Luiz J
 Software Engineer
 -----------------
 
-Hi Friends! Thanks for reading my bio! I am Senior Software Engineer building software with: Typescript, Javascript, Rect.js, Next.js and .Net Core I have 10+ years of experience in software development, hit me up! My latest experience: 4 years of React.js | TypeScript | Style-Component 3 years of Next.js | TailwindCss | 5+ years of JavaScript 5+ years of .Net Core (C#) | Entity Framework | Dapper 1+ year using Azure & CI/CD 10+ years of SQL Server What I offer: Big on integrity, accountability and ownership Supportive and welcoming teammate Love working closely with product and with users I Promote space for learning and mentoring Ping me and let's chat, If you think I could add value to your company.
+Hi Friends! Thanks for reading my bio! I am Senior Software Engineer building software with: Typescript, Javascript, Rect.js, Next.js and .Net Core.
+
+I have 10+ years of experience in software development, hit me up! 
+
+What I offer: 
+- Big on integrity, 
+- accountability and ownership 
+- Supportive and welcoming teammate 
+- Love working closely with product and users 
+- I Promote space for learning and mentoring 
+
 
 * 🌍  I'm based in Vancouver
 * ✉️  You can contact me at [jose.iscosistemas@gmail.com](mailto:jose.iscosistemas@gmail.com)
